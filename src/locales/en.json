@@ -1,0 +1,28 @@
+{
+  "title": "AI-Powered Thai Baby Name Generator",
+  "subtitle": "Generate personalized Thai baby names using GPT-4",
+  "gender": {
+    "label": "Baby's Gender",
+    "options": {
+      "male": "Boy",
+      "female": "Girl",
+      "neutral": "Unisex"
+    }
+  },
+  "characteristics": {
+    "label": "Desired Name Characteristics",
+    "placeholder": "e.g., auspicious, modern, traditional"
+  },
+  "parentNames": {
+    "label": "Parents' Names (optional)",
+    "placeholder": "e.g., Somchai, Malee"
+  },
+  "birthDate": {
+    "label": "Birth Date or Expected Due Date (optional)"
+  },
+  "generateButton": "Generate Names",
+  "generatingNames": "Generating names...",
+  "generatedNames": "Generated Names",
+  "exportNames": "Export Names",
+  "errorMessage": "Failed to generate names. Please try again."
+}
